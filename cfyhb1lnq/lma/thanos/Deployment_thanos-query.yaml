@@ -66,7 +66,6 @@ spec:
             - --store=a71a3a201ebe04e048129680acdfa416-842546777.ap-northeast-2.elb.amazonaws.com:10901
             - --store=a3ec1b9f96ec44409a817dd9680cb4f0-2045858447.ap-northeast-2.elb.amazonaws.com:10901
             - --store=a92e7f06d1f4d4ca2b76f210a82d5ee8-1469776161.ap-northeast-2.elb.amazonaws.com:10901
-            - --store=a13917b55c6f3486fa0e76605b07355c-1498463842.ap-northeast-2.elb.amazonaws.com:10901
           ports:
             - name: http
               containerPort: 10902
